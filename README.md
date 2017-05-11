@@ -5,8 +5,10 @@ Para usar el ejemplo se recomienda crear una base de datos, y en ésta una colec
 
 1. Cree una cuenta en mLab: https://mlab.com/
 2. Una vez registrado, agregue un nuevo despliegue de base de datos. Escoga la configuración 'Sandbox', que es gratuita:
+
 	![](img/config-1.png)
 	![](img/config-2.png)
+	
 3. Abra la base de datos creada, y cree en ésta una nueva colección:
 
 	![](img/config-3.png)
